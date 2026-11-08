@@ -47,3 +47,7 @@ asciireveal = ["py.typed"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
+ 
+[project.urls]
+Homepage = "https://github.com/omerfaruk-shp/asciireveal"
+Issues = "https://github.com/omerfaruk-shp/asciireveal/issues"
